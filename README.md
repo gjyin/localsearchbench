@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/xiaotuan.jpg" alt="问小团 logo" width="260" />
+  <img src="assets/xiaotuan.jpg" alt="问小团 logo" width="26" />
 </p>
 
-# 🚏 LocalSearchBench
+# LocalSearchBench
 
 **Benchmarking Agentic Search in Real-World Local Life Services**
 
