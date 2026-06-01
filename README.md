@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/xiaotuan.jpg" alt="问小团 logo" width="26" />
+  <img src="assets/xiaotuan.jpg" alt="问小团 logo" width="100" />
 </p>
 
 # LocalSearchBench
