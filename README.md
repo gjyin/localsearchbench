@@ -148,4 +148,4 @@ The following numbers follow the camera-ready paper's Table 5, under **Max Round
 
 ## ✅ License
 
-MIT License. Commercial and research use permitted with attribution to LocalSearchBench.
+MIT License. Commercial and research use permitted with attribution to LocalSearchBench. 
